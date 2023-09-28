@@ -1,2 +1,3 @@
 #!/bin/bash
-mkdir /tmp/my_first_directory
+ my_first_directory="my_New_Directory"
+ mkdir "/tmp/$my_New_Directory"
