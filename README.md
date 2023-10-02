@@ -1,1 +1,1 @@
- this project is for shell/basics
+0x02. Shell, I/O Redirections and filters
