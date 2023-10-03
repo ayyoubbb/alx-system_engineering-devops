@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1  iacta
+grep -w "We can do it"  iacta
