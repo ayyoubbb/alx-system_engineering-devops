@@ -1,6 +1,2 @@
-words
-gods
-moods
-beds
-words
-gods
+#!/bin/bash
+sort | uniq
