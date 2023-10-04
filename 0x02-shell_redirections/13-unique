@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq
+echo -e "banana\napple\ngreen\napple" | sort | uniq
